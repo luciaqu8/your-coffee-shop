@@ -1,0 +1,56 @@
+Your Coffee Shop - Onepage Landing Template
+-------------------------------------------
+
+Copyright (c) 2025 LQ
+
+Este template y su código fuente son propiedad de LQ.  
+Se permite la venta y distribución del template respetando las licencias de las dependencias incluidas.
+
+---
+
+Licencias de dependencias incluidas:
+
+1. Fuente Poppins
+----------------
+Licencia: SIL Open Font License (OFL) 1.1  
+URL: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+
+Permite el uso libre, modificación y distribución, incluso para proyectos comerciales, siempre que no se venda la fuente por sí sola.
+
+---
+
+2. FontAwesome Free
+-------------------
+Licencia: FontAwesome Free License  
+URL: https://fontawesome.com/license/free
+
+Permite el uso libre con atribución para proyectos comerciales y personales.
+
+---
+
+3. Swiper.js
+------------
+Licencia: MIT License  
+URL: https://github.com/nolimits4web/swiper/blob/master/LICENSE
+
+Permite el uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta del software.
+
+---
+
+Tu código
+---------
+Este template (HTML, CSS, JS y demás archivos creados por LQ)  
+se distribuye bajo licencia propia que permite su venta y distribución comercial,  
+siempre respetando las licencias de las dependencias arriba mencionadas.
+
+---
+
+Aviso importante
+---------------
+- No se permite la reventa o distribución del template sin modificaciones sustanciales.  
+- No se permite la redistribución de las fuentes por separado.  
+- El comprador es responsable de cumplir con las licencias de terceros.
+
+---
+
+Fecha de creación: 14/09/2025
